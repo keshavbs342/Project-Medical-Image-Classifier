@@ -1,0 +1,9 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore the massive image dataset
+data/
+
+# Ignore Python cache and Jupyter checkpoint files
+__pycache__/
+.ipynb_checkpoints/
