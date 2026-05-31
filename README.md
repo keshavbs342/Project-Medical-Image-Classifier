@@ -34,4 +34,12 @@ Instead of building a CNN from scratch, this project uses **Transfer Learning**.
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/Medical-Image-Classification.git](https://github.com/YOUR-USERNAME/Medical-Image-Classification.git)
+   git clone [https://github.com/keshavbs342/Medical-Image-Classification.git](https://github.com/keshavbs342/Medical-Image-Classification.git)
+
+## 👨‍💻 Author
+
+**Keshav Shukla** *B.Tech in Electronics and Communication Engineering | Shri Ramdeobaba College of Engineering and Management*
+
+* 📧 **Email:** [keshavbs342@gmail.com](mailto:keshavbs342@gmail.com)
+* 🐙 **GitHub:** [@keshavbs342](https://github.com/keshavbs342)
+* 💡 **Focus:** Python, Natural Language Processing (NLP), and Machine Learning
