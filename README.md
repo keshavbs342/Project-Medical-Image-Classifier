@@ -27,7 +27,9 @@ Instead of building a CNN from scratch, this project uses **Transfer Learning**.
 5. **Output Layer:** A single neuron with a Sigmoid activation function for binary classification (0 = Normal, 1 = Pneumonia).
 
 ## 📊 Results & Visualizations
-*(Note to self: Add a screenshot here of the Matplotlib 3x3 image grid or the training accuracy graph!)*
+![Confusion Matrix](confusion_matrix.png)
+
+*The model achieved a 79% accuracy on the unseen test dataset. The confusion matrix above illustrates the model's performance in distinguishing between Normal and Pneumonia cases.*
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
